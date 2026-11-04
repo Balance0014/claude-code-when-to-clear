@@ -87,8 +87,8 @@ Nothing is sent anywhere. Codex logs aren't supported yet. On Windows, if `pytho
 
 ## Why I built it
 
-I run a one-person company on about 18 Claude Code sessions and 20 scheduled AI jobs ([how that works](https://github.com/Balance0014/one-person-ai-company); this tool comes from chapters [3](https://github.com/Balance0014/one-person-ai-company/blob/main/playbook/03-handoff-records.md) and [6](https://github.com/Balance0014/one-person-ai-company/blob/main/playbook/06-quota-budget.md)). They all share one plan. When the week's limit runs out early, the scheduled jobs stop too, and nothing gets delivered until it resets. Last week that cost me four days of reports. I used this report to find out where the week was going.
+I run a one-person company on 18 Claude Code sessions and about 20 scheduled AI jobs ([how that works](https://github.com/Balance0014/one-person-ai-company); this tool comes from chapters [3](https://github.com/Balance0014/one-person-ai-company/blob/main/playbook/03-handoff-records.md) and [6](https://github.com/Balance0014/one-person-ai-company/blob/main/playbook/06-quota-budget.md)). They all share one plan. When the week's limit runs out early, the scheduled jobs stop too, and nothing gets delivered until it resets. Last week that cost me four days of reports. I used this report to find out where the week was going.
 
 ---
 
-Made by [Balance Zhao](https://github.com/Balance0014). [Follow on X](https://x.com/balance0014) for the next one.
+Made by [Balance Zhao](https://github.com/Balance0014). I post new tools on [X](https://x.com/balance0014).
