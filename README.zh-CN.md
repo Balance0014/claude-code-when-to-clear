@@ -80,4 +80,4 @@ Read HANDOFF.md and continue from Next step.
 
 ---
 
-作者 [Balance Zhao](https://github.com/Balance0014)。新工具会先发在 [X](https://x.com/balance0014) 上。
+作者 [Balance Zhao](https://github.com/Balance0014)。新工具会发在 [X](https://x.com/balance0014) 上。
