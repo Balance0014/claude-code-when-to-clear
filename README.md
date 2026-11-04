@@ -59,7 +59,7 @@ Read HANDOFF.md and continue from Next step.
 **Claude Code**, as a plugin (reminder and handoff skill):
 
 ```text
-/plugin marketplace add Balance0014/when-to-clear
+/plugin marketplace add Balance0014/claude-code-when-to-clear
 /plugin install when-to-clear@when-to-clear
 ```
 
@@ -75,7 +75,7 @@ Then start a new session. The report isn't part of the plugin; run it from a clo
 }
 ```
 
-**Other agents:** `npx skills add Balance0014/when-to-clear` installs the handoff skill.
+**Other agents:** `npx skills add Balance0014/claude-code-when-to-clear` installs the handoff skill.
 
 ## How the numbers work
 

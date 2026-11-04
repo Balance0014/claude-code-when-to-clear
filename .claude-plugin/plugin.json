@@ -6,8 +6,8 @@
     "name": "Balance Zhao",
     "url": "https://github.com/Balance0014"
   },
-  "homepage": "https://github.com/Balance0014/when-to-clear",
-  "repository": "https://github.com/Balance0014/when-to-clear",
+  "homepage": "https://github.com/Balance0014/claude-code-when-to-clear",
+  "repository": "https://github.com/Balance0014/claude-code-when-to-clear",
   "license": "MIT",
   "keywords": ["claude-code", "usage", "limits", "context", "tokens", "handoff"]
 }

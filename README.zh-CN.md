@@ -48,7 +48,7 @@ Read HANDOFF.md and continue from Next step.
 **Claude Code 插件**(提醒 + 交接技能):
 
 ```text
-/plugin marketplace add Balance0014/when-to-clear
+/plugin marketplace add Balance0014/claude-code-when-to-clear
 /plugin install when-to-clear@when-to-clear
 ```
 
@@ -64,7 +64,7 @@ Read HANDOFF.md and continue from Next step.
 }
 ```
 
-**其他 agent:** `npx skills add Balance0014/when-to-clear` 安装交接技能。
+**其他 agent:** `npx skills add Balance0014/claude-code-when-to-clear` 安装交接技能。
 
 ## 数字怎么算的
 
